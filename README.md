@@ -18,7 +18,7 @@ SQL • Tableau • POWER BI • EMR Data • CMS-HCC • Risk Modeling • BI S
 - `/sql/` – Core queries and logic layers
 - `/dashboards/` – Tableau or Power BI reports
 - `/notebooks/` – Analysis and modeling
-- `/data/` – Sample/fake data or schemas
+- `/data/` – Sample data or schemas
 
 ## 📈 Impact
 - Designed to reduce care gaps and uncover cost drivers
