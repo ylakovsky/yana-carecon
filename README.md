@@ -7,7 +7,7 @@ Bridging care quality, cost modeling, and business intelligence.
 `yana-carecon` is a collection of analytics workflows and data tools focused on healthcare economics—especially value-based care, utilization trends, and risk adjustment.
 
 ## 🧠 Core Skills
-SQL • Tableau • EMR Data • CMS-HCC • Risk Modeling • BI Strategy • VBA Automation • Healthcare Economics
+SQL • Tableau • POWER BI • EMR Data • CMS-HCC • Risk Modeling • BI Strategy • VBA Automation • Healthcare Economics • Predictive Analytics
 
 ## 🔍 Key Projects
 - **Care Utilization Dashboard**: Tracks chronic condition capture and admission trends
